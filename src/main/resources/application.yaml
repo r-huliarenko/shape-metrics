@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: shape-metrics
+
+shape:
+  parameter:
+    min-size: 0
+    max-size: 1000
